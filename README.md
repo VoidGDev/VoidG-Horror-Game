@@ -1,4 +1,4 @@
-☠️ ZERO G
+*☠️ ZERO G
 
 «"A estação não quer que você saia."»
 
