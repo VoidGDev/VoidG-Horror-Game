@@ -1,23 +1,84 @@
-*☠️ ZERO G
+☠️ ZERO G
 
-«"A estação não quer que você saia."»
+«"O sinal ainda está ativo."»
 
-📖 Sobre o Jogo
+---
 
-ZERO G é uma Visual Novel de Terror Psicológico desenvolvida em HTML, CSS e JavaScript.
+🌑 Sobre
 
-Preso em uma estação espacial abandonada, o jogador acorda sem memórias em meio a corredores escuros, mensagens perturbadoras e entidades desconhecidas. Enquanto explora a instalação, descobrirá segredos sobre o Núcleo, a Dra. Elena, Marcus Vell e a verdadeira natureza da estação.
+ZERO G é uma experiência narrativa de terror psicológico ambientada em um lugar que deveria estar vazio.
 
-Mas existe um problema.
+Você desperta sozinho.
 
-A estação parece lembrar de você.
+As luzes piscam.
+
+Algo parece observá-lo.
+
+E a estação não quer deixá-lo partir.
+
+Explore ambientes sombrios, descubra mensagens esquecidas e tome decisões que podem alterar o destino da sua jornada.
+
+Mas cuidado.
+
+Nem tudo o que você vê é real.
+
+---
 
 🎮 Recursos
 
-- Sistema de escolhas e múltiplos caminhos
-- Terror psicológico e horror cósmico
-- Efeito de máquina de escrever
-- Sistema de salvamento por ID de sobrevivente
+- História interativa baseada em escolhas
+- Terror psicológico e mistério
+- Atmosfera imersiva
+- Efeitos visuais perturbadores
+- Eventos inesperados
+- Sistema de salvamento automático
+- Múltiplos caminhos
+- Segredos ocultos
+- Diferentes finais
+
+---
+
+📸 Capturas
+
+As imagens serão adicionadas futuramente.
+
+---
+
+🚀 Como Jogar
+
+git clone https://github.com/SEU-USUARIO/ZERO-G.git
+
+Abra o arquivo "index.html" em seu navegador.
+
+---
+
+⚠️ Aviso
+
+Este jogo contém:
+
+- Cenas de tensão psicológica
+- Efeitos visuais intensos
+- Sons perturbadores
+- Luzes piscando
+- Eventos inesperados
+
+Recomendado para maiores de 13 anos.
+
+---
+
+📜 Licença
+
+© 2026 VoidGDev
+
+Todos os direitos reservados.
+
+Este projeto, incluindo sua história, personagens, imagens, sons e código-fonte, é protegido por direitos autorais.
+
+---
+
+🌌 VoidGDev
+
+«"Algumas portas foram feitas para permanecer fechadas."»- Sistema de salvamento por ID de sobrevivente
 - Jumpscares dinâmicos
 - Glitches visuais
 - Sombras que atravessam os corredores
