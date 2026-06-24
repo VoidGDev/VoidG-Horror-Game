@@ -148,10 +148,10 @@ Talvez existam outros segredos escondidos na estação...
 
 Todos os direitos reservados.
 
-A reprodução, modificação ou redistribuição deste projeto sem autorização prévia é proibida.
+Este projeto, incluindo sua história, personagens, imagens, sons, interface e código-fonte, é protegido por direitos autorais. É proibida a reprodução, distribuição, modificação ou uso comercial sem autorização prévia e expressa do autor.
 
 🌌 Desenvolvido por
 
 VoidGDev
 
-"A gravidade é uma mentira."
+"Algumas portas foram feitas para permanecer fechadas."
